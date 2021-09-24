@@ -6,7 +6,7 @@ const db = mysql2.createConnection(
     {
         host: 'localhost',
         user: 'root',
-        password: 'ClarkBar2021!!',
+        password: '<enter your password here!>',
         database: 'corp_db'
     },
     console.log(`Connected to the corp_db database.`)
